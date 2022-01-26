@@ -42,8 +42,8 @@ To run the code, there were a number of Python and torch vision libraries that n
 
 # Summary/Findings
 Using the F1 Score as the metrics the best performing model is achieved using Epoch 3, which gives a score of 99% with a training loss of 6.8%.
-![image.jpg](attachment:image.jpg)
- 
+![image](https://user-images.githubusercontent.com/70951375/151109644-d916273b-1d23-44ea-a519-9fb263970f4c.JPG)
+
 The model is a high performing model with a relatively high performance and so could be relied on to give very good results.
 
 
