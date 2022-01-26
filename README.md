@@ -31,18 +31,18 @@ In this project python was used to build predictive models. Deep learning techni
 
 To run the code, there were a number of Python and torch vision libraries that needed to be installed. These are as follows:
 
-●	Pandas
-●	NumPy
-●	Matplotlib
-●	Seaborn
-●	Tensorflow
-●	Torch
-●	Torchvision
+*	Pandas
+*	NumPy
+*	Matplotlib
+* Seaborn
+*	Tensorflow
+*	Torch
+*	Torchvision
 
 
 # Summary/Findings
 Using the F1 Score as the metrics the best performing model is achieved using Epoch 3, which gives a score of 99% with a training loss of 6.8%.
-![image.png](attachment:image.png)
+![image.jpg](attachment:image.jpg)
  
 The model is a high performing model with a relatively high performance and so could be relied on to give very good results.
 
