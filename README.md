@@ -18,7 +18,7 @@ The project was carried out using data collected from smart phone videos which w
 
 We will use classification techniques to determine the class of the data and the likelihood of the occurrence.
 
-The data consists of 
+The data provided was pre-split into training and test sets. The training set consists of 2392 images with 1162 being flip and 1230 being notflip. This is an indication that we are not dealing with an imbalanced dataset. The test set consists of 597 images, with 290 flip and 307 notflip, a total dataset of 2989.
 
 
 The goal of the project is to predict if the page is being flipped using a single image.
@@ -41,8 +41,8 @@ To run the code, there were a number of Python and torch vision libraries that n
 
 
 # Summary/Findings
-Using the F1 Score as the metrics the best performing model is achieved using Epoch 3, which gives a score of 99% with a training loss of 6.8%.
-![image](https://user-images.githubusercontent.com/70951375/151109644-d916273b-1d23-44ea-a519-9fb263970f4c.JPG)
+Using the F1 Score as the metrics the best performing model is achieved using Epoch 1, which gives a score of 97% with a training loss of 21.8%.
+![image1](https://user-images.githubusercontent.com/70951375/151297352-9b0ed930-937d-4159-8610-dac4bff763af.JPG)
 
 The model is a high performing model with a relatively high performance and so could be relied on to give very good results.
 
